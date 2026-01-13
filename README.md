@@ -1,9 +1,3 @@
-Perfect 👍
-Below is a **READY-TO-PASTE `README.md`** (no explanations, no extra text).
-Just copy everything and paste it into your GitHub repo.
-
----
-
 # 🏥 Hospital Emergency Room Interactive Dashboard (Excel)
 
 This repository contains an **Interactive Hospital Emergency Room Dashboard** built using **Microsoft Excel**.
@@ -12,6 +6,10 @@ I created this project by learning from **Satish Dhwale’s End-to-End Excel Das
 The project demonstrates how raw hospital data can be transformed into **meaningful insights** using Excel dashboards.
 
 ---
+## 🖼 Dashboard Preview
+
+[![Hospital Emergency Room Dashboard](Images/Final_dashboard_of_hospital_emergency_room.png)](Images/Final_dashboard_of_hospital_emergency_room.png)
+
 
 ## 🎯 Project Objective
 
