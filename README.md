@@ -8,7 +8,8 @@ The project demonstrates how raw hospital data can be transformed into **meaning
 ---
 ## 🖼 Dashboard Preview
 
-[![Hospital Emergency Room Dashboard](Final_dashboard_of_hospital_emergency_room.png)](Final_dashboard_of_hospital_emergency_room.png)
+[![Hospital Emergency Room Dashboard](Final%20dashboard%20of%20hospital%20emergency%20room.png)](Final%20dashboard%20of%20hospital%20emergency%20room.png)
+
 
 
 ## 🎯 Project Objective
